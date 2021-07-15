@@ -22,7 +22,7 @@ if __name__ == '__main__':
 
     # Move your turtle forward using .forward(100)
 
-    for i in range(20):
+
 
             for i in range(4):
                 too.forward(100)
